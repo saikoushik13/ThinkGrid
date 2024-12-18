@@ -63,6 +63,6 @@ Built using:
 - Real-time leaderboard updates
 
 ## Source Code
-Available on GitHub: [saikoushik13/leftright](https://github.com/saikoushik13/leftright)
+Available on GitHub: https://github.com/saikoushik13/ThinkGrid
 
 May the quickest decision maker win!
